@@ -1,0 +1,154 @@
+
+/* --------- Nav section start */
+.bgnav {
+    background-color: #E4002B;
+}
+.cbtn{
+    color: #E4002B !important;
+}
+.cbtn:hover {
+    background-color: black !important;
+    color: #fff !important;
+}
+.hnav {
+    z-index: 2;
+}
+/* ---------  Nav section end -------- */
+/* ------ Banner section start ----- */
+.banner-section {
+    background-image: url('bgimg/intro-bg.png');
+    background-position: center;
+    background-size: cover;
+    height: 85vh;
+    overflow: hidden;
+}
+h1 {
+    font-size: 3.2rem;
+}
+.fc{
+    color: #E4002B;
+}
+.lpara{
+    font-weight: 500;
+    line-height: 1.45rem;
+    font-size: 1.12rem;
+}
+.btn-started{
+    /* text-decoration: none; */
+    background-color: #E4002B;
+    color: #fff;
+    transition: background-color 0.3s, color 0.3s;
+}
+.btn-started:hover {
+    background-color: #fff;
+    color: #E4002B;
+}
+
+.stext{
+    font-size: 1.22rem;
+}
+.chara-img{
+    position: absolute;
+    width: 50%;
+    bottom: 0;    
+}
+/* ------ Banner section end ----- */
+h2 {
+    /* font-size: 2.3rem; */
+    font-size: 230%;
+}
+.pft {
+    font-size: 1.05rem;
+}
+/* -------  Product section start   ---------- */
+.product-section {
+    background-color: #0A111E;
+}
+.btn-explore{
+    text-decoration: none;
+    background-color: #E4002B;
+    color: #fff;
+    padding: 10px 10px;
+    /* position: absolute;
+    bottom: -23px; */
+    transition: color 0.3s, border 0.3s, background-color 0.3s;
+}
+.btn-explore:hover {
+    color: #E4002B;
+    border: 1px solid #E4002B;
+    background-color: #fff;
+}
+.pdimg{
+    margin-top: -7em;
+}
+.barstick{
+    width: 50%;
+    height: 6px;
+    background-color: #E4002B;
+}
+
+/*-------------- Client section start ----------- */
+
+
+
+/* ------------- Client section end ------------- */
+
+/* ------------- Stats section start ------------ */
+.stats-section {
+    background-image: url('/css/bgimg/stats-coverage.png');
+    background-repeat: no-repeat;
+    background-size: 1200px;
+    background-position:top right;
+}
+
+/* ------------- Stats section end ------------- */
+/* --------------  Top sports section start ----------------- */
+
+/* --------------  Top sports section end --------------- */
+
+.top-sports-section{
+    background-color: #242B36;
+}
+.tsp-card:hover{
+    background-color: #eee;
+}
+.asplink:hover {
+    color: #ddd !important;
+}
+/* -------------Contact section start ------- */
+
+.contact-section{
+    background-color: #0A111E;
+}
+.acbtn {
+    background-color: #E4002B;
+    color: white;
+}
+.acbtn:hover {
+    background-color: white;
+    color: #E4002B ;
+}
+.cpw {
+    font-weight: 500;
+}
+.nc{
+    margin-top: -50px;
+}
+.sabtn {
+    background-color: #E4002B;
+}
+.sabtn:hover {
+    background-color: #0A111E;
+    color: white;
+}
+/* ------------- Contact section end --------------- */
+
+/* -------- Final section ----------------- */
+.section-final{
+    background-color: #242B36;
+}
+
+
+footer {
+    background-color: #0A111E;
+}
